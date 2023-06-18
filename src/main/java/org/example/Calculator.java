@@ -14,6 +14,6 @@ public class Calculator {
         if(b==0) {
             System.out.println("Nie wolno dzielic na 0");
         }
-        return a/b;
+        return 0;
     }
 }
